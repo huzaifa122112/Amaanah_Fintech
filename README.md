@@ -24,11 +24,10 @@ Open `http://localhost:3000` to view the app.
 
 # Project Structure
 app
-├── page.tsx              # Landing page
-├── auth/                 # Login/signup
-├── vaults/               # Investment options
-├── my-vaults/            # Portfolio dashboard
-├── goals/                # Goal setting
-├── payment/              # Payment flow
-├── zakat-calculator/     # Zakat tool
-└── components/ui/        # UI components
+ page.tsx             
+ auth                 
+ vaults               
+ my-vaults            
+ payment              
+ zakat-calculator
+ components/ui
